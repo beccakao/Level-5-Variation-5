@@ -1,0 +1,313 @@
+* {
+	box-sizing: content-box;
+}
+
+body{
+
+	background:white;
+}
+
+.section1{
+	height:700px;
+}
+
+.pattern-2{
+	position:absolute;
+	width: 725px;
+	height: 5px;
+	margin-left: 340px;
+	background-color: gray;
+}
+
+.pattern-8{
+	position:absolute;
+	width: 5px;
+	height: 700px;
+	margin-left: 350px;
+	background-color: gray;
+}
+
+.pattern-9{
+	position:absolute;
+	width: 5px;
+	height: 700px;
+	margin-left: 400px;
+	background-color: gray;
+}
+
+.pattern-10{
+	position:absolute;
+	width: 5px;
+	height: 700px;
+	margin-left: 450px;
+	background-color: gray;
+}
+
+.pattern-11{
+	position:absolute;
+	width: 5px;
+	height: 700px;
+	margin-left: 500px;
+	background-color: gray;
+}
+
+.pattern-12{
+	position:absolute;
+	width: 5px;
+	height: 700px;
+	margin-left: 550px;
+	background-color: gray;
+}
+.pattern-13{
+	position:absolute;
+	width: 5px;
+	height: 700px;
+	margin-left: 600px;
+	background-color: gray;
+}
+.pattern-14{
+	position:absolute;
+	width: 5px;
+	height: 700px;
+	margin-left: 650px;
+	background-color: gray;
+}
+
+.pattern-15{
+	position:absolute;
+	width: 5px;
+	height: 700px;
+	margin-left: 700px;
+	background-color: gray;
+}
+
+.pattern-16{
+	position:absolute;
+	width: 5px;
+	height: 700px;
+	margin-left: 750px;
+	background-color: gray;
+}
+
+.pattern-17{
+	position:absolute;
+	width: 5px;
+	height: 700px;
+	margin-left: 800px;
+	background-color: gray;
+}
+
+.pattern-18{
+	position:absolute;
+	width: 5px;
+	height: 700px;
+	margin-left: 850px;
+	background-color: gray;
+}
+
+.pattern-19{
+	position:absolute;
+	width: 5px;
+	height: 700px;
+	margin-left: 900px;
+	background-color: gray;
+}
+
+.pattern-20{
+	position:absolute;
+	width: 5px;
+	height: 700px;
+	margin-left: 950px;
+	background-color: gray;
+}
+
+.pattern-21{
+	position:absolute;
+	width: 5px;
+	height: 700px;
+	margin-left: 1000px;
+	background-color: gray;
+}
+
+.pattern-22{
+	position:absolute;
+	width: 5px;
+	height: 700px;
+	margin-left: 1050px;
+	background-color: gray;
+}
+
+.pattern-8:hover{
+		transition:height 1s ease;
+
+	position:absolute;
+	width: 5px;
+	height: 5px;
+	margin-left: 350px;
+	background-color: gray;
+}
+
+.pattern-9:hover{
+			transition:height 1s ease;
+
+	position:absolute;
+	width: 5px;
+	height: 50px;
+	margin-left: 400px;
+	background-color: gray;
+}
+
+.pattern-10:hover{
+			transition:height 1s ease;
+
+	position:absolute;
+	width: 5px;
+	height: 5px;
+	margin-left: 450px;
+	background-color: gray;
+}
+
+.pattern-11:hover{
+			transition:height 1s ease;
+
+	position:absolute;
+	width: 5px;
+	height: 5px;
+	margin-left: 500px;
+	background-color: gray;
+}
+
+.pattern-12:hover{
+			transition:height 1s ease;
+
+	position:absolute;
+	width: 5px;
+	height: 5px;
+	margin-left: 550px;
+	background-color: gray;
+}
+.pattern-13:hover{
+			transition:height 1s ease;
+
+	position:absolute;
+	width: 5px;
+	height: 5px;
+	margin-left: 600px;
+	background-color: gray;
+}
+.pattern-14:hover{
+			transition:height 1s ease;
+
+	position:absolute;
+	width: 5px;
+	height: 5px;
+	margin-left: 650px;
+	background-color: gray;
+}
+
+.pattern-15:hover{
+			transition:height 1s ease;
+
+	position:absolute;
+	width: 5px;
+	height: 5px;
+	margin-left: 700px;
+	background-color: gray;
+}
+
+.pattern-16:hover{
+			transition:height 1s ease;
+
+	position:absolute;
+	width: 5px;
+	height: 5px;
+	margin-left: 750px;
+	background-color: gray;
+}
+
+.pattern-17:hover{
+			transition:height 1s ease;
+
+	position:absolute;
+	width: 5px;
+	height: 5px;
+	margin-left: 800px;
+	background-color: gray;
+}
+
+.pattern-18:hover{
+			transition:height 1s ease;
+
+	position:absolute;
+	width: 5px;
+	height: 5px;
+	margin-left: 850px;
+	background-color: gray;
+}
+
+.pattern-19:hover{
+			transition:height 1s ease;
+
+	position:absolute;
+	width: 5px;
+	height: 5px;
+	margin-left: 900px;
+	background-color: gray;
+}
+
+.pattern-20:hover{
+			transition:height 1s ease;
+
+	position:absolute;
+	width: 5px;
+	height: 5px;
+	margin-left: 950px;
+	background-color: gray;
+}
+
+.pattern-21:hover{
+			transition:height 1s ease;
+
+	position:absolute;
+	width: 5px;
+	height: 5px;
+	margin-left: 1000px;
+	background-color: gray;
+}
+
+.pattern-22:hover{
+			transition:height 1s ease;
+
+	position:absolute;
+	width: 5px;
+	height: 5px;
+	margin-left: 1050px;
+	background-color: gray;
+}
+.pattern-3{
+	position:absolute;
+	width: 725px;
+	height: 5px;
+	margin-left: 340px;
+	margin-top:700px;
+	background-color: gray;
+}
+
+p{
+	position:fixed;
+	width: 100%;
+	margin-left: 570px;
+	margin-top:100px;
+}
+
+h2{
+	position:absolute;
+	width: 100%;
+	margin-top: 10px;
+}
+
+h3{
+	position:absolute;
+	width: 100%;
+	margin-top: 50px;
+}
